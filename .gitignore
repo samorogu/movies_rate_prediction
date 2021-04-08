@@ -1,0 +1,21 @@
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Icon must end with two \r
+Icon
+
+# Thumbnails
+._*
+
+#cache
+__pyache__
+code/__pycache__/
+.vscode/
+
+#data from Kaggle
+data/
+
+#challenge pdf
+challenge.pdf
