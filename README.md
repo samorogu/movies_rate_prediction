@@ -11,4 +11,4 @@ The dataset can be downloaded from [kaggle](https://www.kaggle.com/grouplens/mov
 
 ## Notebooks
 
-The first approach  to the data is from EDA and this can be obtained from the EDA Notebooks
+The first approach  to the data is from EDA and this can be obtained from the EDA Notebooks. I recommend to open the notebooks from an IDE because the graphs were made in plotly for interactivity.
